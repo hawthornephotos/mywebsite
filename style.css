@@ -1,0 +1,30 @@
+h1{
+	color: blue;
+	text-align: center;
+}
+body{
+	background-color: green;
+	font-family: "Helvetica";
+}
+li{
+	font-size: small;
+}
+.my_likes{
+	background-color: yellow;
+	margin-right: 500px;
+}
+.schools{
+	background-color: pink;
+	margin-right: 500px;
+}
+.my_link{
+	text-align: center;
+	text-decoration: italics;
+}
+.kitty{
+	height: 400px;
+	width: 200px;
+}
+.tree{
+	
+}
